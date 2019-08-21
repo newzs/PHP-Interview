@@ -129,9 +129,3 @@ $ gitbook build # 生成静态的html
 
 - [OMGZui](https://github.com/OMGZui)
 - [fymmx](https://github.com/fymmx)
-
-
-
-如果这个系列的文章，对您有所帮助，您可以选择打赏一下作者。谢谢！
-
-![qrcode](mm_reward_qrcode.jpg)
